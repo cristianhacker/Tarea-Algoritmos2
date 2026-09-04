@@ -38,5 +38,7 @@ El informe incluye los ejercicios solicitados y el video explicativo.
 ##  Video explicativo
 En el siguiente video se explica paso a paso la lógica en pseudocódigo y su posterior implementación en Python para cada uno de los 2 ejercicios.
 
+https://www.loom.com/share/d2cdb4223bb047b5ad8203c1fd197559
+
 
 
